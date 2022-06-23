@@ -1,10 +1,10 @@
 import React from "react";
-import NumberInput from "./components/numberInput";
+import Calculator from "./containers/calculator";
 
 function App() {
   return (
     <div className="App">
-      <NumberInput name="test" value={34} />
+      <Calculator />
     </div>
   );
 }
