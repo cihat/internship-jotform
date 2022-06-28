@@ -1,0 +1,3 @@
+[submodule "assignment-todo-app"]
+	path = tood-app
+	url = github.com/cihat/assignment-todo-app
